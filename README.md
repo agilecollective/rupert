@@ -33,3 +33,10 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event
 - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 - https://stackoverflow.com/questions/4064444/returning-json-from-a-php-script
+
+## Exercise: use the Symfony HttpFoundation for the request and response
+
+- Create a Composer file
+- Use Composer to [install the library](https://symfony.com/doc/current/components/http_foundation.html#installation)
+- Include the [Composer autoloader](https://getcomposer.org/doc/01-basic-usage.md#autoloading) in your PHP script
+- Adapt your existing code to use the Symfony [Request](https://symfony.com/doc/current/components/http_foundation.html#request) and [Response](https://symfony.com/doc/current/components/http_foundation.html#response) objects.
