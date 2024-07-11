@@ -1,6 +1,6 @@
 # Rupert
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/agilecollective/rupert)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/agilecollective/rupert/tree/symfony)
 
 ## Exercise: HTML form submission
 
