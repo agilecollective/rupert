@@ -56,3 +56,4 @@
 ### Resources
 
 - https://symfony.com/doc/current/controller.html
+- https://symfony.com/doc/current/page_creation.html
