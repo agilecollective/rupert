@@ -37,6 +37,13 @@
 ## Exercise: use the Symfony HttpFoundation for the request and response
 
 - Create a Composer file
-- Use Composer to [install the library](https://symfony.com/doc/current/components/http_foundation.html#installation)
-- Include the [Composer autoloader](https://getcomposer.org/doc/01-basic-usage.md#autoloading) in your PHP script
-- Adapt your existing code to use the Symfony [Request](https://symfony.com/doc/current/components/http_foundation.html#request) and [Response](https://symfony.com/doc/current/components/http_foundation.html#response) objects.
+- Use Composer to install the library (hint: Composer can be used in Lando by running `lando composer` in the terminal)
+- Include the Composer autoloader in your PHP script
+- Refactor your existing code to use the Symfony Request and Response objects instead of working directly with PHP globals.
+
+### Resources
+
+- https://symfony.com/doc/current/components/http_foundation.html#installation
+- https://getcomposer.org/doc/01-basic-usage.md#autoloading
+- https://symfony.com/doc/current/components/http_foundation.html#request
+- https://symfony.com/doc/current/components/http_foundation.html#response
