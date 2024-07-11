@@ -47,3 +47,12 @@
 - https://getcomposer.org/doc/01-basic-usage.md#autoloading
 - https://symfony.com/doc/current/components/http_foundation.html#request
 - https://symfony.com/doc/current/components/http_foundation.html#response
+
+## Excercise: implement as a Symfony app
+
+- Create one controller which outputs the form via template
+- Create another controller to return the JSON response
+
+### Resources
+
+- https://symfony.com/doc/current/controller.html
